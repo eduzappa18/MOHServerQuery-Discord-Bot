@@ -12,6 +12,6 @@
   "dependencies": {
     "discord.js": "11.5.1",
     "gamedig": "2.0.20",
-    "ini": "1.3.5"
+    "ini": "1.3.6"
   }
 }
